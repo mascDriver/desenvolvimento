@@ -1,0 +1,14 @@
+#estilo{
+    width: 400px;
+    height: 400px;
+    margin: 50px auto;
+    padding: 8px;
+    background: green;
+    box-shadow: 10px 10px 10px black, -10px -10px -10px red;
+}
+
+#estilo h1{
+    color: white;
+    font-size: 60px;
+    text-shadow: 4px 4px rgba(0,0,0,0.5);
+}
